@@ -1,0 +1,14 @@
+p {
+    color: blue;
+    font-family: Arial;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 1024px;
+    height: auto;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
